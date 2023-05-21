@@ -1,0 +1,12 @@
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\bin\Debug\Factory.exe.config
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\bin\Debug\Factory.exe
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\bin\Debug\Factory.pdb
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\obj\Debug\Factory.exe
+D:\Dropbox\Code Arsenal\VS Projects\Factory\Factory\obj\Debug\Factory.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\bin\Debug\Factory.exe.config
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\obj\Debug\Factory.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\obj\Debug\Factory.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\bin\Debug\Factory.exe
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\bin\Debug\Factory.pdb
+D:\Training Programs\ITPassport\Advanced Programming & Design Patterns\Creational Patterns\Factory2\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
